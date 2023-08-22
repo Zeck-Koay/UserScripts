@@ -4,7 +4,7 @@
 // @name:zh_TW   YouTube 播放器視口填充屏幕
 // @name:ms      Skrin Isi Port Pandangan Pemain YouTube
 // @namespace    ZkYouTubeUserscript
-// @version      0.1.1
+// @version      0.1.2
 // @description  Use the available space based on the viewport dimensions to expand the video player.
 // @author       Zeck Koay
 // @match        https://www.youtube.com/*
