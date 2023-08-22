@@ -81,7 +81,7 @@
   function setupYtPvfStyling () {
     let head = document.head || document.getElementsByTagName("head")[0],
         style = document.createElement("style");
-    const css = 'ytd-watch-flexy[theater] div#player-wide-container.ytd-watch-flexy {'
+    const css = 'ytd-watch-flexy[theater] div#player-full-bleed-container.ytd-watch-flexy {'
               + 'max-height: 100vh;'
               + 'height: 100vh;'
               + '}'
