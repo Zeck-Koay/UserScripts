@@ -4,7 +4,7 @@
 // @name:zh_TW   YouTube 播放器視口填充屏幕
 // @name:ms      Skrin Isi Port Pandangan Pemain YouTube
 // @namespace    ZkYouTubeUserscript
-// @version      0.1.2
+// @version      0.1.3
 // @description  Use the available space based on the viewport dimensions to expand the video player.
 // @author       Zeck Koay
 // @match        https://www.youtube.com/*
@@ -81,7 +81,7 @@
   function setupYtPvfStyling () {
     let head = document.head || document.getElementsByTagName("head")[0],
         style = document.createElement("style");
-    const css = 'ytd-watch-flexy[theater] div#player-full-bleed-container.ytd-watch-flexy {'
+    const css = 'ytd-watch-flexy[theater] div#full-bleed-container.ytd-watch-flexy {'
               + 'max-height: 100vh;'
               + 'height: 100vh;'
               + '}'
