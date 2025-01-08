@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.2] - 2025-01-09
+### Added
+- Added `@changelog` URL to UserScript metadata, linking to the changelog on GitHub for easy access to version history.
+
 ## [1.0.1] - 2025-01-09
 ### Added
 - Added multilingual support for script name and description in **Simplified Chinese (zh-CN)**, **Traditional Chinese (zh-TW)**, **Malaysia Malay (ms)**, and **Malaysia Hindu (Malayalam - ml)**.

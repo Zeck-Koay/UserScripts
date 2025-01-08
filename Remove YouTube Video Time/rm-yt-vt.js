@@ -10,6 +10,7 @@
 // @run-at       document-start
 // @updateURL    https://raw.githubusercontent.com/Zeck-Koay/UserScripts/refs/heads/main/Remove%20YouTube%20Video%20Time/rm-yt-vt.js
 // @downloadURL  https://raw.githubusercontent.com/Zeck-Koay/UserScripts/refs/heads/main/Remove%20YouTube%20Video%20Time/rm-yt-vt.js
+// @changelog    https://raw.githubusercontent.com/Zeck-Koay/UserScripts/refs/heads/main/Remove%20YouTube%20Video%20Time/CHANGELOG.md
 // @license      MIT
 // @name:zh-CN          移除 YouTube 视频时间
 // @description:zh-CN   从 URL 中移除 YouTube 视频时间
