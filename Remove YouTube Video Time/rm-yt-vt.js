@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Remove YouTube Video Time
 // @namespace    https://zeckkoay.com/
-// @version      1.0.1
+// @version      1.0.2
 // @description  Remove YouTube video time from URL
 // @author       Zeck Koay
 // @match        https://www.youtube.com/*
